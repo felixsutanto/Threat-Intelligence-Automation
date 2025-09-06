@@ -1,0 +1,13 @@
+# Threat Intelligence Automation Script Dependencies
+# ================================================
+# 
+# This file lists all the external Python packages required to run
+# the threat_aggregator.py script.
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# For development/testing environments, you may also want to add:
+#   pip install pytest pytest-mock requests-mock
+
+requests
